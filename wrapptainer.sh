@@ -119,7 +119,6 @@ run_verbose() {
     echo "            $run_type" >&2
     echo "Image     : $tool_img" >&2
     echo "Cache     : $APPTAINER_CACHEDIR" >&2
-    echo "Bind dirs : $bind_dirs" >&2
     echo "Command   : $apt_cmd" >&2
     echo "================================================================================" >&2
 }

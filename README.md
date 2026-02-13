@@ -27,7 +27,7 @@ You might want to just make an alias in one of your .bashrc or other alias speci
 alias appy="<YOUR PATH TO APPY SCRIPT>/wrapptainer.sh"
 ```
 
-### Appy args
+### Wrapptainer args
 
 You don't have to supply parameters for many tools, but for some you will need to.
 
