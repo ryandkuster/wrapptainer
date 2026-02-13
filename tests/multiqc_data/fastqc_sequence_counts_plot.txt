@@ -1,0 +1,2 @@
+Sample	Unique Reads	Duplicate Reads
+fake	2	3

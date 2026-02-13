@@ -1,0 +1,2 @@
+Sample	Filename	File type	Encoding	Total Sequences	Total Bases	Sequences flagged as poor quality	Sequence length	%GC	total_deduplicated_percentage	avg_sequence_length	median_sequence_length	basic_statistics	per_base_sequence_quality	per_sequence_quality_scores	per_base_sequence_content	per_sequence_gc_content	per_base_n_content	sequence_length_distribution	sequence_duplication_levels	overrepresented_sequences	adapter_content
+fake	fake.fq	Conventional base calls	Illumina 1.3	5.0	335 bp	0.0	67.0	59.0	40.0	67.0	67	pass	pass	fail	fail	fail	pass	pass	fail	fail	fail

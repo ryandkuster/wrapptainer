@@ -1,0 +1,2 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	fake	/nfs/home/rkuster/bioinformadness/image_caller/tests/fastqc_out/fake_fastqc.zip
